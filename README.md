@@ -13,12 +13,12 @@ Tetris involves complex logic like collision detection, rotations, scoring, and 
 * Python 3.x
 
 ## Installation
-* Clone this repository: `git clone https://github.com/mohamedyosef101/TETRIS.git`
-* Navigate to the project directory: `cd TETRIS`
+* Clone this repository: `git clone https://github.com/mohamedyosef101/tetris.git`
+* Navigate to the project directory: `cd tetris`
 * Install dependencies: `pip install -r requirements.txt`
 
 ## Playing the Game
-1. Run the game: `python tetris.py`
+1. Run the game: `python main.py`
 2. Use arrow key to move the falling shape.
 3. Press the up arrow key to rotate the shape.
 4. Lines are cleared when they are completely filled. 
