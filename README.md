@@ -1,5 +1,5 @@
 # Tetris Game in Python
-Tertis involves complex logic like collision detection, rotations, scoring, and a great example for me to practice OOP principles. Also, I may use it as an environment to test some RL algorithms (e.g. Deep Q-Learning). 
+Tetris involves complex logic like collision detection, rotations, scoring, and a great example for me to practice OOP principles. Also, I may use it as an environment to test some RL algorithms (e.g. Deep Q-Learning). 
 
 ## Features
 * Multiple Tetris shapes (I, J, L, O, S, T, Z)
