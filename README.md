@@ -10,7 +10,9 @@ Tetris involves complex logic like collision detection, rotations, scoring, and 
 * Game loop
 
 ## Requirements
-* Python 3.x
+* Python 3.12.0
+* NumPy 1.26.2
+* PyGame 2.6.0
 
 ## Installation
 * Clone this repository: `git clone https://github.com/mohamedyosef101/tetris.git`
